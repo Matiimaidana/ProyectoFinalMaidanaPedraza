@@ -35,6 +35,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+
   height: 100vh;
   min-height: 350px;
   -webkit-background-size: cover;
