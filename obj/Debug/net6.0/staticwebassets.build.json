@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DYq5sK0P+BzOrJdJfpMvqfx6HorVOSN2D06MptfKVe0=",
+  "Hash": "6oa/NpCevFERkF6o3yvPqeRwNGYZAiVi61TOBoEyrVc=",
   "Source": "ProyectoFinal",
   "BasePath": "_content/ProyectoFinal",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "OriginalItemSpec": "wwwroot\\css\\fondobody02.jpg"
     },
     {
+      "Identity": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\css\\fondobodyfinal.jpg",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "css/fondobodyfinal.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\fondobodyfinal.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\css\\site.css",
       "SourceId": "ProyectoFinal",
       "SourceType": "Discovered",
@@ -1154,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\js\\Login.js",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "js/Login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Login.js"
     },
     {
       "Identity": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\js\\site.js",
