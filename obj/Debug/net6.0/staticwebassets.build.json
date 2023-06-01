@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6oa/NpCevFERkF6o3yvPqeRwNGYZAiVi61TOBoEyrVc=",
+  "Hash": "DXiiB1YT4QIhCo5q6aSH5511PNoOm/Gn4tz61ZE4Rw8=",
   "Source": "ProyectoFinal",
   "BasePath": "_content/ProyectoFinal",
   "Mode": "Default",
@@ -1171,23 +1171,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\js\\Login.js",
-      "SourceId": "ProyectoFinal",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\",
-      "BasePath": "_content/ProyectoFinal",
-      "RelativePath": "js/Login.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Login.js"
     },
     {
       "Identity": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\wwwroot\\js\\site.js",
