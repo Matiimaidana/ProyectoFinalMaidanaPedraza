@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {}
+    "C:\\Users\\usuario\\TercerAñoEzpeleta\\ProyectoFinalMaidanaPedraza\\ProyectoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
+    "C:\\Users\\usuario\\TercerAñoEzpeleta\\ProyectoFinalMaidanaPedraza\\ProyectoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\TercerAñoEzpeleta\\ProyectoFinalMaidanaPedraza\\ProyectoFinal.csproj",
         "projectName": "ProyectoFinal",
-        "projectPath": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
-        "packagesPath": "C:\\Users\\Matii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matii\\Desktop\\ProyectoFinal\\ProyectoFinal\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\TercerAñoEzpeleta\\ProyectoFinalMaidanaPedraza\\ProyectoFinal.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\TercerAñoEzpeleta\\ProyectoFinalMaidanaPedraza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -50,6 +50,16 @@
               "target": "Package",
               "version": "[6.0.16, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -57,6 +67,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
